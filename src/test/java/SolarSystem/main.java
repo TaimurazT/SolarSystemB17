@@ -13,5 +13,12 @@ public class main {
         Sun.name="panther";
         Sun.color="black";
         Sun.temp="-12123245kelvin";
+    // Planet1
+        Planet1 plato=new Planet1();
+        plato.color="green";
+        plato.name="abracadabra";
+        plato.temp="100000000000k";
+        plato.radius="80000000km";
+
     }
 }
